@@ -1,0 +1,8 @@
+TRẦN MẠNH CASH – APP ĐỘC LẬP
+
+Thư mục này là toàn bộ app. Đưa nguyên thư mục lên GitHub Pages (miễn phí):
+  index.html, manifest.webmanifest, sw.js, thư mục icons/
+
+Dữ liệu KHÔNG nằm trong các file này. Dữ liệu nằm trong Google Sheets "BẢNG CHI RUBY HOME 3"
+(trang tính APP_DATA, CHI PHÍ TỔNG, THU, CHI), đọc/ghi qua máy chủ Apps Script (file TranManhCash_Server.gs).
+Lần đầu mở app sẽ hỏi: link máy chủ (…/exec) và mã bí mật APP_KEY.
